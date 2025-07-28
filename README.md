@@ -1,11 +1,14 @@
 📊 Social Media Sentiment Analysis 
+
 Analyzing public opinion & engagement across platforms
 
 📌 Project Overview
+
 This project explores social media data to uncover public sentiment, engagement (likes & retweets), and platform-based trends.
 The dataset includes user posts, engagement metrics, timestamps, and metadata (platform, hashtags, country).
 
 Goals:
+
 -> Identify top sentiments expressed by users
 -> Analyze sentiment trends over time
 -> Explore platform-specific sentiment patterns
