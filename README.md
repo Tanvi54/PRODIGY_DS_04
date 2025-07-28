@@ -12,8 +12,11 @@ The dataset includes user posts, engagement metrics, timestamps, and metadata (p
 ## **Goals:**
 
 -> Identify top sentiments expressed by users
+
 -> Analyze sentiment trends over time
+
 -> Explore platform-specific sentiment patterns
+
 -> Examine engagement metrics (likes & retweets) by sentiment
 
 ---
